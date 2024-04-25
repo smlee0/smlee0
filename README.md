@@ -26,7 +26,13 @@
   ## 상태
   ![smlee0 GitHub stats](https://github-readme-stats.vercel.app/api?username=smlee0&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smlee0&layout=compact)](https://github.com/smlee0/github-readme-stats)
-  
+
+
+  <br/><br/>
+  ## 자료 및 레퍼런스
+  - 방문자 수 ([링크](https://github.com/anuraghazra/github-readme-stats))
+  - 기술스택 뱃지 ([링크1](https://simpleicons.org/)) ([링크2](https://github.com/danmadeira/simple-icon-badges))
+  - 깃허브 상태창 ([링크](https://github.com/anuraghazra/github-readme-stats))
 </div>
 
 
