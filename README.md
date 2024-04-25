@@ -42,11 +42,8 @@
 - 2024.04 : AWS Certified Cloud Practitioner 취득
 
 ### AWS 뱃지
-<div align="center">
+<img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
 
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
-
-</div>
 
 
 <br/><br/>
