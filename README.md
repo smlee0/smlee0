@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  ![aws-ccp](https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png)
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
 
 </div>
 
