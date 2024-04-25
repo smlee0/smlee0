@@ -42,7 +42,12 @@
 <br/><br/>
 
 ## 자격 증명
+- 2022.06 : 정보처리기사 취득
+- 2022.12 : SQL 개발자 취득
+- 2022.12 : 네트워크관리사 2급 취득
+- 2024.04 : AWS Certified Cloud Practitioner 취득
 
+### AWS 뱃지
 <div align="center">
 
   <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
@@ -69,7 +74,7 @@
 - 방문자 수 ([링크](https://hits.seeyoufarm.com/))
 - 기술스택 뱃지 ([링크1](https://simpleicons.org/)) ([링크2](https://github.com/danmadeira/simple-icon-badges))
 - 깃허브 상태창 ([링크](https://github.com/anuraghazra/github-readme-stats))
-
+- 헤더 꾸미기 ([링크](https://github.com/kyechan99/capsule-render))
 
 
 
