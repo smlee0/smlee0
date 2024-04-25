@@ -46,6 +46,8 @@
 
 <div align="center">
 
+  ![[aws-certified-cloud-practitioner.png]]
+
 </div>
 
 
