@@ -6,7 +6,7 @@
   
   
 <br/><br/>
-## 📚 Tech Stack
+## ✨ Tech Stack
 
 <div align="center">
   
@@ -27,7 +27,7 @@
 
 
 <br/><br/>
-## Tools
+## 🛠️ Tools
 
 <div align="center">
   
@@ -44,11 +44,13 @@
 
 
 <br/><br/>
-## Todo
+## 📚 Todo
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 
 </div>
 
@@ -64,7 +66,7 @@
 
 
 <br/><br/>
-### AWS 뱃지
+### 🏅 AWS 뱃지
 
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
 
