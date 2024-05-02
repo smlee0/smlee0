@@ -46,8 +46,11 @@
 <br/><br/>
 ## Todo
 
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+<div align="center">
 
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+
+</div>
 
 
 
@@ -63,11 +66,8 @@
 <br/><br/>
 ### AWS 뱃지
 
-<div align="center">
+<img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
 
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
-
-</div>
 
 
 <br/><br/>
