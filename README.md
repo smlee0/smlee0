@@ -46,11 +46,8 @@
 <br/><br/>
 ## Todo
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 
-</div>
 
 
 
