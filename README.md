@@ -72,8 +72,10 @@
 <br/><br/>
 ### 🏅 AWS 뱃지
 
-<img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
-<img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/refs/heads/master/aws-certified-solutions-architect-associate.png" />
+<div align="center">
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/master/aws-certified-cloud-practitioner.png" />
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/smlee0/smlee0/refs/heads/master/aws-certified-solutions-architect-associate.png" />
+</div>
 
 
 
