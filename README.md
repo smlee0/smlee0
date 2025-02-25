@@ -63,10 +63,11 @@
 <br/><br/>
 ## 🥇 자격 증명
 
-- 2022.06 : 정보처리기사 취득
+- 2024.12 : AWS Certified Solutions Architect(SAA-C03) - Associate 취득
+- 2024.04 : AWS Certified Cloud Practitioner(CLF-C02) - Foundational 취득
 - 2022.12 : SQL 개발자 취득
 - 2022.12 : 네트워크관리사 2급 취득
-- 2024.04 : AWS Certified Cloud Practitioner 취득
+- 2022.06 : 정보처리기사 취득
 
 
 <br/><br/>
